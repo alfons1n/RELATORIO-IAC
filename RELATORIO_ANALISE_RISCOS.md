@@ -1,6 +1,7 @@
 # Relatório de Análise de Riscos em TI
 
-**Autor:** Alfons1n  
+**Autor:** Ramon Silas 
+          Jhon
 **Data:** 22/04/2026  
 
 ---
