@@ -8,7 +8,7 @@ https://developer.hashicorp.com/terraform
 # Terraform
 https://developer.hashicorp.com/vault
 
-# repositorios
+# Repositórios
 https://github.com/chaddyc/terraform-proxmox-template.git
 
 https://github.com/chaddyc/terraform-proxmox-template/blob/main/credentials.tfvars
